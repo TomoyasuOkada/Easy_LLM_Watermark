@@ -1,19 +1,6 @@
-<style>
-    /* Style for the logo image */
-    .responsive-logo {
-        width: 15%; /* Default width for PC/desktop */
-        height: auto; /* Maintains the image's aspect ratio */
-    }
 
-    /* Media query for mobile devices */
-    @media screen and (max-width: 768px) {
-        .responsive-logo {
-            width: 80%; /* Width for screens 768px or smaller */
-        }
-    }
-</style>
 <a id="readme-top"></a>
-[![Contributors][contributors-shield]][contributors-url]
+<!-- [![Contributors][contributors-shield]][contributors-url] -->
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -25,7 +12,7 @@
 <br />
 <div align="center">
     <a href="https://github.com/XHLin-gamer/Easy_LLM_Watermark">
-        <img class="responsive-logo" src="pics/icon.png" alt="Logo">
+         <img src="pics/icon.png" alt="Logo" style="width:70%; max-width:80%; display:block; margin:auto;" />
     </a>
 
 <h3 align="center">誰でも理解できる、大規模言語モデルのための電子透かし</h3>
