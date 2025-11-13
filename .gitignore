@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+scripts/Cosmos-Tokenizer/
+scripts/pretrained_ckpts/Cosmos-0.1-Tokenizer-CI8x8/.gitattributes
+scripts/pretrained_ckpts/Cosmos-0.1-Tokenizer-CI8x8/autoencoder.jit
+scripts/pretrained_ckpts/Cosmos-0.1-Tokenizer-CI8x8/config.json
+scripts/pretrained_ckpts/Cosmos-0.1-Tokenizer-CI8x8/decoder.jit
+scripts/pretrained_ckpts/Cosmos-0.1-Tokenizer-CI8x8/encoder.jit
+scripts/pretrained_ckpts/Cosmos-0.1-Tokenizer-CI8x8/model_config.yaml
+scripts/pretrained_ckpts/Cosmos-0.1-Tokenizer-CI8x8/README.md
