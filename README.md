@@ -31,6 +31,31 @@
   </p>
 </div>
 
+## あらすじ
+
+1. [前書き](1.preface.md)
+2. [なぜLLMの文書を追跡する技術が必要とされるか？](2.Motivation.md)
+3. [LLM は次の単語（トークン）を予測する技術です](3.Proposition.md)
+   1. [パソコンの単語：トークン](3.Proposition.md#パソコンの単語トークン)
+   2. [大規模言語モデル](3.Proposition.md#大規模言語モデル)
+      1. [次の単語へ](3.Proposition.md#次の単語へ)
+      2. [大規模言語モデルを観察しよう](3.Proposition.md#大規模言語モデルを観察しよう)
+      3. [LLMの内部に何が起こっているか](3.Proposition.md#llmの内部に何が起こっているか)
+      4. [多岐にわたるサンプリング手法](3.Proposition.md#多岐にわたるサンプリング手法)
+      5. [LLMの機能を拡張せよ](3.Proposition.md#llmの機能を拡張せよ)
+4. 電子透かしとは？
+   1. 偏りのある単語帳
+   2. みどりの単語をもっと使うように
+   3. 検出機構
+5. 応用
+   1. 透かしの放射性
+   2. 動的ハッシュ
+   3. 選択フィルター
+6. LLM透かしの欠点
+7. 結論
+8. 著者情報
+9.  APPENDIX
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -43,7 +68,7 @@
 
 
 ### Built With
- [![Python][Python.org]][Python.org] [![Docker][Docker.com]][Docker.com]
+ [![Python][Python.org]][Python.org] [![UV][astral.sh]][astral.sh]
 
 <!-- CONTACT -->
 ## Contact
@@ -80,4 +105,4 @@ Project Link: [https://github.com/XHLin-gamer/Easy_LLM_Watermark](https://github
 
 [product-screenshot]: images/screenshot.png
 [Python.org]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
-[Docker.com]: https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white
+[astral.sh]: https://img.shields.io/badge/uv-package%20manager-blueviolet?style=for-the-badge&logoColor=white
