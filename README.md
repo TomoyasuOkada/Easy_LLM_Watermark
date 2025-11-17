@@ -33,7 +33,7 @@
 
 ## あらすじ
 
-1. [前書き](1.preface.md)
+1. [前書き](src/1.preface.md)
 2. [なぜLLMの文書を追跡する技術が必要とされるか？](2.Motivation.md)
 3. [LLM は次の単語（トークン）を予測する技術です](3.Proposition.md)
    1. [パソコンの単語：トークン](3.Proposition.md#パソコンの単語トークン)
