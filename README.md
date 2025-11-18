@@ -68,7 +68,7 @@
 
 
 ### Built With
- [![Python][Python.org]][Python.org] [![UV][astral.sh]][astral.sh]
+ [![Python][Python.org]][Python.org] [![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json&style=for-the-badge)](https://github.com/astral-sh/uv) 
 
 <!-- CONTACT -->
 ## Contact
@@ -106,3 +106,5 @@ Project Link: [https://github.com/XHLin-gamer/Easy_LLM_Watermark](https://github
 [product-screenshot]: images/screenshot.png
 [Python.org]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [astral.sh]: https://img.shields.io/badge/uv-package%20manager-blueviolet?style=for-the-badge&logoColor=white
+
+<!-- -->
